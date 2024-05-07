@@ -1,0 +1,15 @@
+
+ejemplo de transaccion
+TCL_0.sql
+
+Ejemplo 1 - READ UNCOMMITTED
+TCL_1.sql y TCL_2.sql
+
+Ejemplo 2- READ COMMITTED
+TCL_3.sql y TCL_4.sql
+
+Ejemplo 3- REPEATABLE READ
+TCL_5.sql - TCL_6.sql - TCL_7.sql
+
+Ejemplo 4- SERIALIZABLE
+TCL_8.sql y TCL_9.sql
